@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhangxiang Hu"
 title_separator          : "-"
 name                     : &name "Zhangxiang Hu"
-description              : &description "Research assistant at University of Oregon"
+description              : &description "Ph.D student"
 url                      : https://zhangxianghu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangxianghu/zhangxianghu.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhangxiang Hu"
   avatar           : "profile.png"
-  bio              : "Research assistant at University of Oregon"
+  bio              : "Ph.D student"
   location         : "Eugene, Oregon"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "University of Oregon"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QmkHsY7s4JcC"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
