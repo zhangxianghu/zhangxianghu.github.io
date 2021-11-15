@@ -1,7 +1,7 @@
 ---
 title: 'Honors and Awards'
 date: 2012-08-14
-permalink: /award/award
+permalink: /awards/award
 tags:
   - award
 ---
