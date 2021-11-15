@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
+
 <p style="color:darkgreen;"><b>Ripple Graduate Fellowship (2020-2022)</b></p>
 ------
 
