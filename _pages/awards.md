@@ -9,21 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Ripple Graduate Fellowship (2020-2022)
-======
+<p style="color:lightgreen;">Ripple Graduate Fellowship (2020-2022)</p>
+------
 
-Ripple Graduate Fellowship (2020-2021)
-======
+<p style="color:lightgreen;">Ripple Graduate Fellowship (2020-2021)</p>
+------
 
 Phillip Seeley Graduate Fellowship (2020)
-======
+------
 
 Best Teaching Assistant award (2018-2020)
-======
+------
 
 Student Travel Grant winner for Crypto 2015 conference (2015)
-======
+------
 
 Thesis is supported by National Science Foundation (2013 - 2015)
-======
+------
 
