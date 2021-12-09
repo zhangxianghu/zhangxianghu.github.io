@@ -2,7 +2,7 @@
 title: "Area exam: Layered Networking Protocols for Secure Communications in the Internet of Things"
 collection: publications
 permalink: /publication/area_exam
-date: 2017-10-01
+date: 2020-10-01
 venue: 'Zhangxiang Hu'
 ---
 
