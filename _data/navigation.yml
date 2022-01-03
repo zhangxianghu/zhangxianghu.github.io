@@ -5,12 +5,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Awards"
     url: /awards/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Zhangxiang_Hu_resume.pdf
