@@ -6,4 +6,4 @@ date: 2022-01-01
 venue: 'Zhangxiang Hu, Jun Li, Sam Mergendahl, Christopher Wilson'
 ---
 
-[Download paper here](Coming soon...)
+[Coming soon...]()
