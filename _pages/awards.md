@@ -11,7 +11,7 @@ redirect_from:
 
 <br>
 
-<li style="color:darkgreen;"><b>Ripple Graduate Fellowship (2020-20222)</b></li>
+<li style="color:darkgreen;"><b>Ripple Graduate Fellowship (2020-2022)</b></li>
 ------
 
 <li style="color:darkgreen;"><b>Ripple Graduate Fellowship (2020-2021)</b></li>
@@ -26,6 +26,6 @@ redirect_from:
 <li style="color:darkgreen;"><b>Student Travel Grant winner for Crypto 2015 conference (2015)</b></li>
 ------
 
-<li style="color:darkgreen;"><b>Thesis is supported by National Science Foundation (2015)</b></li>
+<li style="color:darkgreen;"><b>Master thesis is supported by NSF (2015)</b></li>
 ------
 
