@@ -1,5 +1,5 @@
 ---
-title: "Master thesis: Random Access Machine In Secure Multi-party Computatino"
+title: "Master thesis: Random Access Machine In Secure Multi-party Computation"
 collection: publications
 permalink: /publication/master_thesis
 date: 2016-01-01
