@@ -1,8 +1,8 @@
 ---
-title: Dissertation: Cryptography, Dependability And Privacy In Decentralized Systems"
+title: "Dissertation: Cryptography, Dependability And Privacy In Decentralized Systems"
 collection: publications
 permalink: /publication/dissertation
-date: 2023-03-01
+date: 2023-02-28
 venue: 'Zhangxiang Hu'
 ---
 
