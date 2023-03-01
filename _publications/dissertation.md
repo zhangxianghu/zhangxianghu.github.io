@@ -1,8 +1,8 @@
 ---
-title: "Area exam: Layered Networking Protocols for Secure Communications in the Internet of Things"
+title: Dissertation: Cryptography, Dependability And Privacy In Decentralized Systems"
 collection: publications
-permalink: /publication/area_exam
-date: 2020-10-01
+permalink: /publication/dissertation
+date: 2023-03-01
 venue: 'Zhangxiang Hu'
 ---
 
